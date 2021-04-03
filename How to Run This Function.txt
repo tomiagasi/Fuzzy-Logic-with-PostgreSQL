@@ -1,0 +1,4 @@
+For execute this function, you must execute 
+	CREATE EXTENSION pg_trgm;
+To call postgresql extension
+Thank You And Have Fun:)
